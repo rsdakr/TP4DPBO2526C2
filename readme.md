@@ -13,7 +13,6 @@ Class `Person` berfungsi sebagai penampung struktur data dengan atribut privat b
 * `tahun` (`int`): Tahun lahir.
 * `kategori` (`String`): Program Studi.
 * `aktif` (`boolean`): Status keaktifan.
-* `semester` (`int`): Semester mahasiswa saat ini *(Atribut baru penunjang komponen GUI JSpinner)*.
 
 ### 2. Form & Komponen Interface (`PeopleMenu.java` & `PeopleMenu.form`)
 
